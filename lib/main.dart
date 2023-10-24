@@ -42,7 +42,7 @@ class ProfileBody extends StatelessWidget {
                 ),
                 SizedBox(width: 16),
                 Text('Job Russel Destor', 
-                  style: TextStyle(fontSize: 24, fontWeight:FontWeight.bold, color: Colors.white),
+                  style: TextStyle(fontSize: 25, fontWeight:FontWeight.bold, color: Colors.white),
                 ),
               ],
             ),
@@ -99,7 +99,7 @@ class ProfileBody extends StatelessWidget {
                    My name is Job Russel Destor. I am currently a third year BSIT  student majoring in Network and Information Security in West Visayas State University.
                    I enjoy traveling with a love for capturing the beauty of landscapes through my photography.  My curiosity allows me to find new adventures and uncharted territories to explore. """,
                 textAlign: TextAlign.center,
-                style: TextStyle(fontStyle: FontStyle.italic, color: Colors.white),
+                style: TextStyle(fontStyle: FontStyle.italic, color: Colors.white, fontSize: 15),
               
                 ),
               ],
